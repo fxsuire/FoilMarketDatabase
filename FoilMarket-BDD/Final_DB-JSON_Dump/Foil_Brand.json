@@ -1,0 +1,44 @@
+{ 
+    "_id" : NumberInt(1), 
+    "Brand" : "AFS"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "Brand" : "MOSES"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "Brand" : "GONG"
+}
+{ 
+    "_id" : NumberInt(4), 
+    "Brand" : "ALPINEFOIL"
+}
+{ 
+    "_id" : NumberInt(5), 
+    "Brand" : "NAISH"
+}
+{ 
+    "_id" : NumberInt(6), 
+    "Brand" : "LOKEFOIL"
+}
+{ 
+    "_id" : NumberInt(7), 
+    "Brand" : "GOFOIL"
+}
+{ 
+    "_id" : NumberInt(8), 
+    "Brand" : "SLINGSHOT"
+}
+{ 
+    "_id" : NumberInt(9), 
+    "Brand" : "PHANTOM"
+}
+{ 
+    "_id" : NumberInt(10), 
+    "Brand" : "LOKEFOIL"
+}
+{ 
+    "_id" : NumberInt(11), 
+    "Brand" : "SELECT"
+}

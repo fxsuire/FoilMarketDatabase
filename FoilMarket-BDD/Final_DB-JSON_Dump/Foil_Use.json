@@ -1,0 +1,20 @@
+{ 
+    "_id" : NumberInt(1), 
+    "Use_Usage" : "Windsurfing"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "Use_Usage" : "Kitesurfing"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "Use_Usage" : "Sup - surf"
+}
+{ 
+    "_id" : NumberInt(4), 
+    "Use_Usage" : "Wake"
+}
+{ 
+    "_id" : NumberInt(6), 
+    "Use_Usage" : "Wing"
+}

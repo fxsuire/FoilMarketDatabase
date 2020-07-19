@@ -1,0 +1,20 @@
+{ 
+    "_id" : NumberInt(1), 
+    "Component" : "Front Wing - Aile avant"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "Component" : "Fuselage"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "Component" : "Stabilizer - Stabilisateur"
+}
+{ 
+    "_id" : NumberInt(4), 
+    "Component" : "Mast - Mât"
+}
+{ 
+    "_id" : NumberInt(5), 
+    "Component" : "Complete foil - foil complet"
+}
